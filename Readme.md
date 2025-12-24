@@ -1,4 +1,4 @@
-# Daily Expenses Tracker (Using Console(java))
+# Daily Expenses Tracker 
 
 ## Introduction
 
